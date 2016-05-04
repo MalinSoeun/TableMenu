@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Mushroom Burger</string>
+		<key>Description</key>
+		<string>Fontina, crispy shallot, garlic aioli, balsamic cherry tomato</string>
+		<key>ShortDescription</key>
+		<string>Fontina, crispy shallot, garlic aioli, balsamic cherry tomato</string>
+		<key>Price</key>
+		<integer>13</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Thumbnail</key>
+		<string>thumb_item1.jpg</string>
+		<key>Image</key>
+		<string>item1.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Faux</string>
+		<key>Description</key>
+		<string>Grilled tuna, vermicelli rice noodles, served w/ crisp vegetables</string>
+		<key>ShortDescription</key>
+		<string>Grilled tuna, vermicelli rice noodles, served w/ crisp vegetables</string>
+		<key>Price</key>
+		<integer>14</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Image</key>
+		<string>item2.jpg</string>
+		<key>Thumbnail</key>
+		<string>thumb_item2.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Coq Au Vin</string>
+		<key>Description</key>
+		<string>Braised cabbage, jasmine rice</string>
+		<key>ShortDescription</key>
+		<string>Braised cabbage, jasmine rice</string>
+		<key>Price</key>
+		<integer>12</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Image</key>
+		<string>item3.jpg</string>
+		<key>Thumbnail</key>
+		<string>thumb_item3.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Spring Hash</string>
+		<key>Description</key>
+		<string>Lamb, fiddlehead fern, potato, spring onion, spring garlic</string>
+		<key>ShortDescription</key>
+		<string>Lamb, fiddlehead fern, potato, spring onion, spring garlic</string>
+		<key>Price</key>
+		<integer>13</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Image</key>
+		<string>item8.jpg</string>
+		<key>Thumbnail</key>
+		<string>thumb_item8.jpg</string>
+	</dict>
+</array>
+</plist>

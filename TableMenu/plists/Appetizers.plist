@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Steak Tartare</string>
+		<key>Description</key>
+		<string>Remoulade, olive oil, crustini</string>
+		<key>ShortDescription</key>
+		<string>Remoulade, olive oil, crustini</string>
+		<key>Price</key>
+		<integer>15</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Image</key>
+		<string>item5.jpg</string>
+		<key>Thumbnail</key>
+		<string>thumb_item5.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Mussels</string>
+		<key>Description</key>
+		<string>Heirloom tomato, garlic saffron broth</string>
+		<key>ShortDescription</key>
+		<string>Heirloom tomato, garlic saffron broth</string>
+		<key>Price</key>
+		<integer>14</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Image</key>
+		<string>item6.jpg</string>
+		<key>Thumbnail</key>
+		<string>thumb_item6.jpg</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Confit Leg of Duck</string>
+		<key>Description</key>
+		<string>Soba noodle, pickled turnip, roasted chili sesame vin, soft boiled egg</string>
+		<key>ShortDescription</key>
+		<string>Soba noodle, pickled turnip, roasted chili sesame vin, soft boiled egg</string>
+		<key>Price</key>
+		<integer>5</integer>
+		<key>Favorite</key>
+		<false/>
+		<key>Image</key>
+		<string>item7.jpg</string>
+		<key>Thumbnail</key>
+		<string>thumb_item7.jpg</string>
+	</dict>
+</array>
+</plist>
